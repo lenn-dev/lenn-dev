@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there! 👋 I am
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=c4ffa0&text=%20lenn-dev%20%20&height=180&fontSize=45&animation=twinkling&fontAlignY=34&fontColor=31302a)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c699f2&text=%20lenn-dev%20%20&height=180&fontSize=45&animation=twinkling&fontAlignY=34&fontColor=ffffff)
 
 <div align=center>
 Skills 🖥<br>
@@ -34,4 +34,4 @@ Learning 🧑‍💻<br>
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=c4ffa0&height=180&fontAlignY=70&text=:-D&fontColor=31302a&animation=twinkling&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=c699f2&height=180&fontAlignY=70&text=:-D&fontColor=ffffff&animation=twinkling&section=footer)
